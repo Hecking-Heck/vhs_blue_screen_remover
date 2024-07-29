@@ -12,7 +12,7 @@ This script processes an MP4 video file to detect and remove segments with a blu
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Hecking-Heck/blue_screen_remover.git
+    git clone https://github.com/Hecking-Heck/vhs_blue_screen_remover.git
     cd blue_screen_remover
     ```
 
